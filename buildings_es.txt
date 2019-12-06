@@ -1,0 +1,110 @@
+Aidekman Arts Center
+0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   1   1   1   1   0   0
+Anderson Hall
+0   0   0   1   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   1   0   0
+Ballou Hall 
+0   1   0   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+Barnum Hall
+0   1   0   1   1   0   0   0   1   0   0   0   0   1   0   0   0   0   0   1   0   0
+Bendetson Hall
+0   1   0   1   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0
+Bookstore
+0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0
+Braker Hall
+0   1   0   1   1   0   0   0   1   0   0   1   0   1   0   0   0   1   0   0   0   0
+Bromfield -Pearson
+0   0   0   1   0   0   0   0   1   0   0   0   0   1   1   0   0   0   0   1   0   0
+Cabot Intercultural center
+0   0   0   1   1   0   0   0   0   1   0   1   0   0   0   0   0   1   1   1   0   0
+Interfaith Center
+0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   0   0
+Cohen Auditorium    
+0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   1   1   0   1   0   0
+574 Boston Ave.
+0   0   0   1   0   0   0   0   0   0   0   0   0   1   1   1   0   0   0   1   0   0
+Curtis Hall
+0   0   0   0   0   0   0   0   0   0   1   0   0   0   1   1   0   1   0   0   0   0
+Dewick-MacPhie Hall
+0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+Dowling Hall
+0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0
+East Hall
+0   1   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Eaton Hall
+0   1   0   1   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0
+Gantcher Sports Center
+0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   1   1   1   0
+Goddard Chapel
+0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Hillel Center
+0   0   0   0   1   0   0   1   0   1   0   0   0   0   0   0   0   0   1   1   0   0
+Granoff Music Center
+0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   1   1   1   1   0   0
+Halligan Hall
+0   0   0   1   0   0   0   1   0   0   0   0   0   1   0   1   0   0   0   1   0   0
+Hamilton Pool
+0   0   0   0   0   0   0   1   0   0   1   0   0   0   0   1   0   0   0   1   0   0
+Hooper Infirmary
+0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   1   0   0
+Jackson Gymnasium
+0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   1   0   0
+Mayer Campus Center
+0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   1   1   0   0
+Miner Hall
+0   1   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+Olin Center for Language
+0   1   0   1   1   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   0   0
+Paige Hall
+0   1   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0
+Pearson Chemistry Lab
+0   0   0   1   0   0   0   0   0   0   0   1   0   1   0   0   1   0   0   1   0   0
+Performance Hanger
+0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   1   0   1   0   0
+Psychology Building
+0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0
+Robinson Hall
+0   0   0   1   0   0   0   0   0   0   0   1   0   1   1   0   0   1   0   1   0   0
+SEC
+0   0   1   1   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   1   0   0
+Sci-Tech center
+0   0   0   1   0   0   0   0   0   0   0   0   0   1   1   1   0   0   1   1   0   0
+Tisch Library
+0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Tisch Sports Center
+0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   1   1   0   0
+Women's Center
+0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   1   0   0
+Carmichael Hall
+1   0   1   0   1   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+Bush Hall
+1   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+Harleston Hall
+1   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   1   0   0
+Haskell Hall
+1   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0
+Hill Hall
+1   0   0   0   1   1   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0
+Hillsides Apartments
+1   0   0   0   1   0   1   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+Hodgdon Hall
+1   0   1   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+Houston Hall
+1   0   0   0   1   1   0   1   0   1   0   0   0   0   0   0   0   0   0   1   0   0
+Latin Hall
+1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+Lewis Hall
+1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Metcalf Hall
+1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Miller Hall
+1   0   0   0   1   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+Stratton Hall
+1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   1   0   0
+Sophia-Gordon Hall
+1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   1   0   1
+Tilton Hall
+1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+West Hall
+1   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Wren Hall
+1   0   0   0   1   0   1   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0

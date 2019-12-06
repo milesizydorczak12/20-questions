@@ -1,0 +1,16 @@
+Mayer Campus Center
+0 1 0 
+Metcalf Hall
+0 1 1
+Miller Hall
+1 1 1
+Miner Hall
+1 1 0
+Harleston Hall
+0 0 1
+Wren Hall
+1 0 1
+Braker Hall
+1 0 0
+Halligan Hall
+0 0 0 

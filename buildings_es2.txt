@@ -1,0 +1,110 @@
+Aidekman Arts Center
+11  12  16  17  18  19  
+Anderson Hall
+3   13  14  19          
+Ballou Hall
+1   4   8               
+Barnum Hall
+1   3   4   8   13  19  
+Bendetson Hall
+1   3   4   8   19      
+Bookstore
+8   16 
+Braker Hall
+1   3   4   8   11  13  17
+Bromfield -Pearson
+3   8   13  14  19      
+Cabot Intercultural center
+3   4   9   11  17  18  19
+Interfaith Center
+9   18  19              
+Cohen Auditorium
+11  12  16  17  19      
+574 Boston Ave.
+3   13  14  15  19      
+Curtis Hall
+10  14  15  17          
+Dewick-MacPhie Hall
+2   16                  
+Dowling Hall
+4   19  20              
+East Hall
+1   3   4               
+Eaton Hall
+1   3   4   13  19      
+Gantcher Sports Center
+10  15  18  19  20      
+Goddard Chapel
+1   4                   
+Hillel Center
+4   7   9   18  19      
+Granoff Music Center
+12  16  17  18  19      
+Halligan Hall
+3   7   13  15  19      
+Hamilton Pool
+7   10  15  19          
+Hooper Infirmary
+7   9   19              
+Jackson Gymnasium
+10  16  19              
+Mayer Campus Center
+2   16  17  18  19      
+Miner Hall
+1   3   4   19          
+Olin Center for Language
+1   3   4   9   18  19  
+Paige Hall
+1   3   4   17          
+Pearson Chemistry Lab
+3   11  13  16  19      
+Performance Hanger
+10  16  17  19          
+Psychology Building
+3   14  15              
+Robinson Hall
+3   11  13  14  17  19  
+SEC
+2   3   13  14  19      
+Sci-Tech center
+3   13  14  15  18  19  
+Tisch Library
+
+Tisch Sports Center
+10  15  18  19   
+Women's Center
+16  18  19              
+Carmichael Hall
+0   2   4   5   9       
+Bush Hall
+0   5   8               
+Harleston Hall
+0   7   10  19          
+Haskell Hall
+0   6   7   16          
+Hill Hall
+0   4   5   7   10      
+Hillsides Apartments
+0   4   6   7   19      
+Hodgdon Hall
+0   2   5   7   19      
+Houston Hall
+0   4   5   7   9   19  
+Latin Hall
+0   6   19              
+Lewis Hall
+0                       
+Metcalf Hall
+0   5                   
+Miller Hall
+0   4   5   9           
+Stratton Hall
+0   16  19              
+Sophia-Gordon Hall
+0   16  19  21          
+Tilton Hall
+0   5   19              
+West Hall
+0   1   4               
+Wren Hall
+0   4   6   9   19  
