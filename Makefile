@@ -13,15 +13,10 @@ LDFLAGS = -g
 20Q: main.o TwentyQgame.o KDtree.o hammingTrie.o
 	${CXX} ${LDFLAGS} -o 20Q main.o TwentyQgame.o KDtree.o hammingTrie.o
 
-#Prototype: main.o Prototype.o 
-#	${CXX} ${LDFLAGS} -o Prototype main.o Prototype.o 
-
-main.o: main.cpp TwentyQgame.h # questions_and_entries.h Stack.h
-TwentyQgame.o: TwentyQgame.cpp TwentyQgame.h hammingTrie.h#questions_and_entries.h userInput.h KDtree.h
-# KDtree.h 
-KDtree.o: KDtree.cpp KDtree.h #questions_and_entries.h Stack.h userInput.h
+main.o: main.cpp TwentyQgame.h 
+TwentyQgame.o: TwentyQgame.cpp TwentyQgame.h hammingTrie.h
+KDtree.o: KDtree.cpp KDtree.h 
 hammingTrie.o: hammingTrie.cpp hammingTrie.h
-#Prototype.o: Prototype.cpp Prototype.h questions_and_entries.h Stack.h
 
 clean: 
 	rm -rf 20Q *.o 

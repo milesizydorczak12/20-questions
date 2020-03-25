@@ -44,6 +44,7 @@ private:
     vector<Entry> entriesVec;
 
     double version_num;
+    string prompt;
 
     void read_entries(string entriesFile);
     void read_questions(string questionsFile);

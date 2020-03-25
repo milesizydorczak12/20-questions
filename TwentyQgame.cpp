@@ -67,11 +67,13 @@ void TwentyQgame::run()
 //             they are asked for.
 void TwentyQgame::run_welcome() 
 {
-    if (version_num < 2.0) {
-        cout << "Welcome to 20 questions! Please think of a Tufts building.\n"
+    if (version_num != 2.0) {
+        cout << "Welcome to 20 questions! Please think of a(n)\n" 
+             << prompt << endl 
              << "Respond to each of the following questions with (y/n)\n";
     } else if (version_num == 2.0) {
-        cout << "Welcome to 20 questions! Please think of a Tufts building.\n"
+        cout << "Welcome to 20 questions! Please think of a(n)\n"
+             << prompt << endl
              << "Respond to each of the following questions with "
                 "(y/n/prob/probnot/unknown)\n";
     }
@@ -214,16 +216,16 @@ void TwentyQgame::run_prob()
     KDtree prob(entriesVec, questionsVec, version_num);
     string command;
     int guesses_made = 0;
-
     while (guesses_made < 20) {
-        cout << prob.question_at_curr() << endl;
+        cout << (guesses_made + 1) << ". " << prob.question_at_curr() << endl;
         guesses_made++;
         cin >> command;
         prob.advance_probably(string_to_UI(command));
         // We need a second while loop so when we have a probably that divides
         // two pools of size 1, there is no question to ask when we return 
         while (prob.size_of_pool() <= 1 and guesses_made < 20) {
-            cout << "Are you thinking of " << prob.entry_at_curr() << "?\n";
+            cout << (guesses_made + 1) << ". " 
+                 << "Are you thinking of " << prob.entry_at_curr() << "?\n";
             guesses_made++;
             cin >> command;
             if (command == "y") {
@@ -240,46 +242,21 @@ void TwentyQgame::run_prob()
     cout << "You win! I'm stumped." << endl;
 }
 
-// Function
-// Parameters: 
-// Returns:    
-// Does:       
+
+// I want to continue adding on to this project over winter break, so I left 
+// room for two more version ideas: one could be a hybrid between versions 2.0
+// and 3.0, and the other could be a sort of nueral network that changes the 
+// text files as it learns how people answer questions
+
 void TwentyQgame::run_hybrid()
 {
     // TODO
 }
-
-// Function
-// Parameters: 
-// Returns:    
-// Does:       
+    
 void TwentyQgame::run_neural()
 {
     // TODO
 }
-
-// void TwentyQgame::run_prob() 
-// {
-//     KDtree prob(entriesVec, questionsVec, version_num);
-//     ask_a_prob(prob, 0);
-// }
-
-
-// void TwentyQgame::ask_a_prob(KDtree &prob, int guesses_made)
-// {
-//     if (guesses_made >= 20) {
-//         cout << "You win! I'm stumped" << endl;
-//     } else {
-//         string command;
-//         cout << prob.question_at_curr() << endl;
-//         cin >> command;
-//         userInput UI = string_to_UI(command);
-//         prob.advance_probably(UI);
-
-//         if (prob.size_of_pool() <= 1) {
-
-//     }
-// }
 
 // function read_entries
 // Parameters: A string, which should be the name of a file in the current
@@ -337,6 +314,7 @@ void TwentyQgame::read_questions(string questionsFile)
         exit(1); 
     }
 
+    getline(questions_in, prompt);
     string questionStr;
     while (getline(questions_in, questionStr)) {
         Question new_question;

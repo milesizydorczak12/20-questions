@@ -91,7 +91,7 @@ public:
     // Function push
     // Parameters: A variable of any type T, called new_data 
     // Returns:    None
-    // Does:       Adds another element to the top of the Stack, by inserting a 
+    // Does:       Adds another element to the top of the Stack, by inserting a
     //             Node at the front of the linked list
     void push(T new_data)
     {

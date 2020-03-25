@@ -15,7 +15,6 @@
 #include "questions_and_entries.h"
 #include "Stack.h"
 
-
 using namespace std;
 
 #ifndef _HAMMINGTRIE_H_
@@ -53,7 +52,6 @@ private:
 
     void add_point(vector<int> answers, string point_name);
     void build_trie();
-    //void find_neighbors_of(vector<int> answers);
     void find_second_degree_of(vector<int> answers);
     void find_first_degree_of(vector<int> answers);
     int switch_value(int x);
@@ -65,39 +63,3 @@ private:
 };
 
 #endif
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
